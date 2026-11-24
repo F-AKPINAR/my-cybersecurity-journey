@@ -1,5 +1,6 @@
-# Sinav cevaplari / flag / parola iceren dosyalar ASLA yuklenmesin
+# Files containing exam answers / flags / passwords must NEVER be uploaded
 notlar.md
+*answer*
 *cevap*
 *flag*
 *parola*
@@ -7,7 +8,7 @@ notlar.md
 .env
 *.key
 
-# Isletim sistemi / editor
+# OS / editor
 .DS_Store
 Thumbs.db
 *.swp
