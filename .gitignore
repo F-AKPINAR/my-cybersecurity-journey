@@ -1,0 +1,13 @@
+# Sinav cevaplari / flag / parola iceren dosyalar ASLA yuklenmesin
+notlar.md
+*cevap*
+*flag*
+*parola*
+*password*
+.env
+*.key
+
+# Isletim sistemi / editor
+.DS_Store
+Thumbs.db
+*.swp
